@@ -161,5 +161,7 @@ public class MarketsConfig {
 
 		addMarket(new Idax());
 		addMarket(new Okex());
+
+		addMarket(new Bbx());
 	}
 }
