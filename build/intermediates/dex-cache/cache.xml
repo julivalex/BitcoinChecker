@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/juliya/AndroidStudioProjects/BitcoinChecker/dataModuleTester/build/intermediates/exploded-aar/BitcoinChecker/dataModule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e1cca4f79e62291e300f9c7dd450b9206c1897bb">
+        <dex dex="/home/juliya/AndroidStudioProjects/BitcoinChecker/dataModuleTester/build/intermediates/pre-dexed/debug/BitcoinChecker-dataModule-unspecified_581df51febdec8ce064838772b0344db75d122a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/juliya/AndroidStudioProjects/BitcoinChecker/dataModuleTester/build/intermediates/pre-dexed/debug/gson-2.2.4_7d44ee33c8fa759388fc20377c6d68a2abc2ee61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliya/AndroidStudioProjects/BitcoinChecker/dataModuleTester/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ff0965221f143f498799047f1f4cdf58eb4e9a9">
+        <dex dex="/home/juliya/AndroidStudioProjects/BitcoinChecker/dataModuleTester/build/intermediates/pre-dexed/debug/volley_ec0cfaf18b2354af693100c7f7c06a162416673e.jar" />
+    </item>
+
+</items>

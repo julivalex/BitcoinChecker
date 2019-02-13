@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/captures
+./BitcoinChecker_APK_OUT/depack/*
+./BitcoinChecker_APK_OUT/out/*
+
